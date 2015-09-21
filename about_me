@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+   
+     <link rel="stylesheet" href="main.css">
+    <script type='text/javascript' src='script.js'></script>
+    </head>
+<body>
+<div id="navbar">
+    <a href="index.html"><img id="logo" src="yuhanlogo.png" /></a>
+      <ul id="navitem">
+          <li><a href="index.html">Index</a></li>
+          <li><a href="about_me.html">About Me</a></li>
+          <li class="active"><a href="bibliography.html">Bibliography</a></li>
+          <li><a href="contact.html">Contact</a></li>
+          <li><a href="editorial_design.html">Editorial Design</a></li>
+          <li><a href="branding.html">Branding</a></li>
+          <li><a href="poster_design.html">Poster Design</a></li>
+          <li><a href="others.html">Others</a></li>
+       </ul>
+    </div>
+    
+    <div id="header">Bibliography</div>
+
+    <div id="content">
+    <p style="font-family:'Minion Pro';font-size:18px;color:orange;">Education :</p>
+    <p><strong>BA(HON) VISUAL ARTS</strong> / Academy of Visual Arts, Hong Kong Baptist University / <em>2016'</em></p>
+        <hr style="width: 60px;margin-bottom:1em; margin-top:1.7em;color:#545454;transparency:60%;"></hr>
+    <p style="font-family:'Minion Pro';font-size:18px;color:orange;">Group Exhibitions :</p>
+    <p><strong>Dialoge über Bücher</strong> (Dialogues on books) / Dortmunder U, Uzwei / <em>25. Apr. to 07. June, 2015</em></p>
+    <p style="font-size:10px; color:black; line-height:1.2em; max-width: 800px;"><em>Posture Study</em> as well as <em>A Typography Experience</em> were exhibited on the event.
+</p>
+    <hr style="width: 60px; margin-top:1.7em;color:#545454;transparency:60%;"></hr>
+    <p style="font-family:'Minion Pro';font-size:18px;color:orange;">Prizes :</p>
+    <p><strong>Honourable Award</strong> / Competition of Souvenir Design of Macao / <em>2014</em></p>
+        <hr style="width: 60px;margin-bottom:1em; margin-top:1.7em;color:#545454;transparency:60%;"></hr>
+<p style="font-family:'Minion Pro';font-size:18px;color:orange;">Working experience :</p>
+    <p><strong>Graphic Designer</strong> / Haiteng Media Co.Ltd., Hangzhou / <em>May to July, 2015</em></p>
+    <p style="font-size:10px; color:black; line-height:1.2em; max-width: 800px;">Acting as the lead graphic designer, creating printed posters, digital posters for promotions of events as well as campaigns.
+</p>
+    <p><strong>Graphic Designer</strong> / Shanghai Media Group Co.Ltd., SMG, Shanghai / <em>June to August, 2014</em></p>
+    <p style="font-size:10px; color:black; line-height:1.2em; max-width: 800px;">Performing as the graphic designer, making light-box posters, leaflets and banners to promote the event organised by the public relations team in SMG.
+</p>
+    <p><strong>Visual Editor</strong> / Near Zero Emission / <em>2014 to 2015</em></p>
+    <p style="font-size:10px; color:black; line-height:1.2em; max-width: 800px;">Performing as the visual editor to design the layouts, covers as well as the typesetting of <em>Near Zero Emission</em>
+</p>
+    <p><strong>Stage Design Assistant</strong> / Shanghai Media Group Co.Ltd., SMG, Shanghai / <em>June, 2014</em></p>
+    <p style="font-size:10px; color:black; line-height:1.2em; max-width: 800px;">Functioning with the stage design team to create the stage for TV live show <em>So You Think You Can Dance</em>. Acting as the assistant, discussing and combining ideas.
+</p>
+    <p><strong>Photographer Assistant</strong> / Swarovski Reseller, Hangzhou / <em>July, 2013</em></p>
+    <p style="font-size:10px; color:black; line-height:1.2em; max-width: 800px;">Assisting in commerical photo shoing as well as photo retouching for crystal earrings and barcelets.
+</p>
+        <hr style="width: 60px;margin-bottom:1em; margin-top:1.7em;color:#545454;transparency:60%;"></hr>
+    
+    
+        <!--<p style="font-size:10px; color:black; line-height:1.2em; max-width: 800px;"><em>Posture Study</em> is a photographic book which mainly talks about the reading postures under different circumstances. Reading venues, sizes of books, contents, body condition, as well as moods can exert subtle influence on personal reading postures. For instance, one reads differently when on the underground or in bed. Reading postures of different persons are captured by photography, in an aesthetic way, by photos to indicate the relationships between reading postures and elements which serve as causes.
+</p>-->
+
+   
+    
+</body>
+</html>
+	</!DOCTYPE>
